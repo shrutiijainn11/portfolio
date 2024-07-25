@@ -41,9 +41,9 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 - **Fake News Prediction**: Model to classify news articles as real or fake.
 - **Ecommerce Sales Dashboard**: Interactive dashboard for sales analysis.
 
+### Contact
+For any questions or inquiries, please contact me at jshruti034@gmail.com
+
 **Clone the repository**:
 ```bash
 git clone https://github.com/shrutiijainn11/portfolio.git
-
-### Contact
-For any questions or inquiries, please contact me at jshruti034@gmail.com
