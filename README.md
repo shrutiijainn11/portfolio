@@ -40,3 +40,10 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 - **Credit Card Fraud Detection**: Machine learning model to detect fraudulent transactions.
 - **Fake News Prediction**: Model to classify news articles as real or fake.
 - **Ecommerce Sales Dashboard**: Interactive dashboard for sales analysis.
+
+**Clone the repository**:
+```bash
+git clone https://github.com/shrutiijainn11/portfolio.git
+
+### Contact
+For any questions or inquiries, please contact me at jshruti034@gmail.com
