@@ -15,11 +15,7 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 - **Bootstrap**: For responsive design and layout.
 - **FontAwesome**: For icons and visual elements.
 
-**Clone the repository**:
-   ```bash
-   git clone https://github.com/shrutiijainn11/portfolio.git
-
-### Project Structure
+## Project Structure
 - **index.html**: The main landing page of the portfolio.
 - **about.html**: The about me section detailing my background and skills.
 - **projects.html**: A showcase of my major projects with descriptions and links.
