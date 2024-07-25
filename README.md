@@ -19,6 +19,7 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
    ```bash
    git clone https://github.com/shrutiijainn11/portfolio.git
 
+
 ## Project Structure
 - **index.html**: The main landing page of the portfolio.
 - **about.html**: The about me section detailing my background and skills.
